@@ -7,5 +7,6 @@ public class GitPrac {
 		System.out.println("hello");
 		System.out.println("world");
 		System.out.println("thx");
+		//잘 올라갔겠지?
 	}
 }
