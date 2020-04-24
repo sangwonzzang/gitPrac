@@ -11,5 +11,7 @@ public class GitPrac
 		System.out.println("난 조원");
 		System.out.println("난 조장");
 		//잘 올라갔겠지?
+		
+		System.out.println("2222222222");
 	}
 }
